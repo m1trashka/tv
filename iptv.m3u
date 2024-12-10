@@ -1,0 +1,124 @@
+#EXTINF:-1 tvg-name="360 HD" tvg-logo="https://i.ibb.co/HG0CgVf/resize-19.png" group-title="Россия",360 HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+
+#EXTINF:-1 tvg-name="360 Нoвости" tvg-logo="https://i.ibb.co/r0wRnxX/resize-18.png" group-title="Россия",360 Новости HD
+http://e10-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+
+#EXTINF:-1 tvg-name="Домашний HD" tvg-logo="https://i.ibb.co/5r7dhSC/resize-10.png" group-title="Россия",Домашний HD
+http://92.53.64.197:5050/domashniy_hd/video.m3u8?token=m3VIth-Rou_bM1
+
+#EXTINF:-1 tvg-name="Мир 24 FHD" tvg-logo="https://i.ibb.co/6gGccrP/image-31.png" group-title="Россия",Мир 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="https://i.ibb.co/Ny4djbS/resize-2024-10-03-T053247-985.png" group-title="Россия",НТВ HD
+http://%64m%693%79-%74%76.ru/hls/T2/CH_NTVHD.m3u8
+
+#EXTINF:-1 tvg-name="Первый HD" tvg-logo="https://i.ibb.co/F50X6qB/resize-2024-10-02-T064710-956.png" group-title="Россия",Первый HD
+http://%64m%693%79-%74%76.ru/hls/T2/CH_1TVHD.m3u8
+
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="https://i.ibb.co/LCHDMzb/resize-60.png" group-title="Россия",Пятница
+http://%64m%693%79-%74%76.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+
+#EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="https://i.ibb.co/nPCS0RK/resize-48.png" group-title="Россия",Россия 1 HD
+http://46.174.83.66/RossiaHD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://i.ibb.co/y4vcn2M/resize-49.png" group-title="Россия",Россия 24
+http://player.smotrim.ru/iframe/stream/live_id/64739?43e=5.m3u8
+
+#EXTINF:-1 tvg-name="Россия К" tvg-logo="https://i.ibb.co/vVvmhBT/resize-59.png" group-title="Россия",Россия К
+http://%64m%693%79-%74%76.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+
+#EXTINF:-1 tvg-name="СТС HD" tvg-logo="https://i.ibb.co/89Zv6Ym/resize-6.png" group-title="Россия",СТС HD
+http://%64m%693%79-%74%76.ru/hls/T2/CH_STSHD.m3u8
+
+#EXTINF:-1 tvg-name="ТВ 3" tvg-logo="https://i.ibb.co/vYhJnGM/resize-2024-10-03-T054553-790.png" group-title="Россия",ТВ 3 International
+http://87.99.87.203:2007/channel/59fac02d/index.m3u8?q=e2022ec6fb1b276498db1c99c5f4deed
+
+#EXTINF:-1 tvg-name="ТВ Центр" tvg-logo="https://i.ibb.co/qxfrhXf/resize-2024-10-03-T060021-563.png" group-title="Россия",ТВ Центр
+http://%64m%693%79-%74%76.ru/hls/DVB-T2/CH_TVC.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ HD" tvg-logo="https://i.ibb.co/h1drY0c/resize-65.png" group-title="Россия",ТНТ HD
+http://%64m%693%79-%74%76.ru/hls/T2/CH_TNTHD.m3u8
+
+#EXTINF:-1 tvg-name="ТНТ4" tvg-logo="https://i.ibb.co/94Hn1sL/resize-1.png" group-title="Россия",ТНТ4
+http://213.226.137.140:81/tl/l63/mpegts
+
+#EXTINF:-1 tvg-name="Че!" tvg-logo="https://i.ibb.co/k4DQqL9/resize-14.png" group-title="Россия",Че!
+http://185.23.80.28:8080/Che/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="Ю" tvg-logo="https://i.ibb.co/Qf9ttT4/resize-15.png" group-title="Россия",Ю
+http://%64m%693%79-%74%76.ru/hls/zabava/CH_U.m3u8
+
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="https://i.ibb.co/YR1frV0/resize-58.png" group-title="Россия",Карусель
+http://%64m%693%79-%74%76.ru/hls/DVB-T2/CH_KARUSEL.m3u8
+
+#EXTINF:-1 tvg-name="КиноМульт" tvg-logo="https://i.ibb.co/J2TLy2T/resize-59.png" group-title="Россия",КиноМульт
+http://109.200.130.123:7537/play/a024
+
+#EXTINF:-1 tvg-name="Кроха ТВ" tvg-logo="https://i.ibb.co/mRNzYLp/resize-61.png" group-title="Россия",Кроха ТВ
+http://4je2oiwp.klaipedalt.org/iptv/U5MT6SA5XYW4GS5FHQCYDAD4/11066/index.m3u8
+
+#EXTINF:-1 tvg-name="Мульт HD" tvg-logo="https://i.ibb.co/r4KgWKJ/resize-2024-10-02-T072218-325.png" group-title="Россия",Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-name="Союз Мультфильм" tvg-logo="https://i.ibb.co/kSRNtdg/resize-2024-10-11-T055539-006.png" group-title="Россия",Союз Мультфильм CHD
+http://194.26.229.213/souzmultfilm/index.m3u8
+
+#EXTINF:-1 tvg-name="Муз Тв" tvg-logo="https://i.ibb.co/DLRFWSs/resize-2.png" group-title="Россия",Муз Тв
+http://%64m%693%79-%74%76.ru/hls/DVB-T2/CH_MUZTV.m3u8
+
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://i.ibb.co/c3YdgB9/resize-2024-10-10-T234853-568.png" group-title="Россия",Discovery Channel
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-name="Наука 2.0" tvg-logo="https://i.ibb.co/DtZXVRh/resize-2024-10-11-T010342-897.png" group-title="Россия",Наука 2.0
+http://178.124.152.238:8088/nauka
+
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Матч! ТВ" tvg-logo="https://i.ibb.co/hW18SKL/resize-52.png" group-title="Россия",Матч! ТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.postimg.cc/PJPwKBWs/5821f49e18db5cfd8e7d640b0168851c.png" logo="https://i.postimg.cc/G2MDFcsx/a5509c5edc842e74d96d5723d963dd23.png" channelId="65" tvg-name="TV1000 Русское кино" tvg-id="tv1000-russkoe-kino",TV 1000 Русское кино
+https://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Арена" tvg-logo="https://i.ibb.co/qMQQ3Y4/resize-2024-10-10-T194443-390.png" group-title="Россия",Матч! Арена HD
+http://194.143.148.28:8080/MatchArena/mpegts
+
+#EXTINF:-1 tvg-name="Матч! Боец" tvg-logo="https://i.ibb.co/FHhvTZ8/resize-2024-10-10-T194520-233.png" group-title="Россия",Матч! Боец
+http://88.85.172.243:7002/play/a02m
+
+#EXTINF:-1 tvg-name="Матч! Игра" tvg-logo="https://i.ibb.co/7rb4QsW/resize-2024-10-10-T194935-650.png" group-title="Россия",Матч! Игра HD
+http://88.85.172.243:7002/play/a02u
+
+#EXTINF:-1 tvg-name="Матч! Игра" tvg-logo="https://i.ibb.co/7rb4QsW/resize-2024-10-10-T194935-650.png" group-title="Россия",Матч! Игра
+http://87.120.142.11:18000/Match!Igra
+
+#EXTINF:-1 tvg-name="Матч! Планета" tvg-logo="https://i.ibb.co/60sCZGh/resize-2024-10-10-T195158-544.png" group-title="Россия",Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Премьер" tvg-logo="https://i.ibb.co/r78MLgq/resize-2024-10-10-T195224-278.png" group-title="Россия",Матч! Премьер HD
+http://s5.merlive.am/matchpremier/index.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Премьер" tvg-logo="https://i.ibb.co/r78MLgq/resize-2024-10-10-T195224-278.png" group-title="Россия",Матч! Премьер
+http://s7.merlive.am/matchpremier/index.m3u8
+
+#EXTINF:-1 tvg-name="Матч! Страна" tvg-logo="https://i.ibb.co/DbzhgQn/resize-2024-10-10-T195450-624.png" group-title="Россия",Матч! Страна
+http://178.163.16.7:4022/udp/234.0.0.188:2000
+
+#EXTINF:-1 tvg-name="Матч! Футбол 1" tvg-logo="https://i.ibb.co/587gzBw/resize-2024-10-10-T195833-894.png" group-title="Россия",Матч! Футбол 1 HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1 group-title="Россия" tvg-logo="http://only4.tv/ch/1401.png" logo="http://overlay.iptvin.fun/epg/PIC/1_0_19_579_E_70_1680000_0_0_0.png" channelId="554" tvg-id="match-football2",Матч! Футбол 2 HD
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+
+#EXTINF:-1 tvg-name="Матч! Футбол 3" tvg-logo="https://i.ibb.co/NSj0sgV/resize-2024-10-10-T200239-988.png" group-title="Россия",Матч! Футбол 3 HD
+http://185.57.68.33/110/mpegts
+
+
+
+
+
+
+
+
+
+
+
